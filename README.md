@@ -1,6 +1,6 @@
 ## Nth Fibonacci Term Calculator
 ### About
-A tiny Python script that prints the nth Fibonacci term (where the first &amp; second terms are 1 and 1 respectively) using [Binet's Fibonacci Formula](http://mathworld.wolfram.com/BinetsFibonacciNumberFormula.html) in constant time.
+A tiny Python script that outputs the (approximate) nth Fibonacci term (where the first &amp; second terms are 1 and 1 respectively) using [Binet's Fibonacci Formula](http://mathworld.wolfram.com/BinetsFibonacciNumberFormula.html) in constant time.
 
 
 ### Usage
